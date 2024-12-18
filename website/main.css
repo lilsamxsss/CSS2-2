@@ -1,0 +1,199 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+#first {
+    width: 980px;
+    margin-left: 500px;
+    margin-top: 12px;
+}
+
+#second {
+    font-size: 18px;
+    color: #FF5DA3;
+    text-decoration: none;
+    margin-left: 170px;
+}
+
+#third {
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+#fourth {
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+    margin-left: 20px;
+
+}
+
+#fifth {
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+    margin-left: 20px;
+
+}
+
+#sixth {
+    font-size: 14px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    background-color: #00AC25;
+    color: white;
+    text-decoration: none;
+    margin-left: 192px;
+}
+
+#seventh { 
+    
+    width: 1100px;
+    margin: auto;
+    margin-top: 203px;
+    text-align: center;
+}
+
+#nine {
+    margin: 0px;
+    margin-right: 180px;
+    font-size: 72px;
+}
+
+#eight {
+    width: 1316px;
+}
+
+span {
+    text-align: center;
+    color: #FF5DA3;
+}
+
+#ten {
+    color: #FF5DA3;
+    margin: 0px;
+    margin-right: 180px;
+    font-size: 72px;
+}
+
+#twelve {
+    margin: auto;
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+#therteen {
+    font-size: 48px;
+    margin: auto;
+    margin-top: 24px;
+}
+
+#fiftheen {
+    margin: center;
+    color: #6941C6;
+    font-size: 24px;
+}
+
+#forteen {
+    margin: auto;
+    width: 716px;
+}
+
+#sixtheen {
+    background: #00AC25;
+    width: 233px;
+    border-radius: 8px;
+    padding: 16px 24px;
+    margin: auto;
+    margin-top: 24px;
+}
+
+#seventheen {
+    text-decoration: none;
+    font-size: 18px;
+    color: #FFF;
+}
+footer {
+    background: #53389E; 
+    height: 128px;
+    padding: 0px;
+    margin-top: 578px;
+}  
+
+#eighteen {
+    width: 1216px;
+    height: 32px;
+}
+
+#nineteen {
+    width: 139px;
+    height: 32px;
+    margin: 0px;
+    margin-top: 48px;
+    margin-left: 352px;
+}
+
+#twenty {
+    height: 24px;
+    text-align: center;
+    width: 512px;
+    margin: 0px;
+    margin-left: 704px;
+    margin-top: 25px;
+}
+
+#twentyone {
+    margin-left: 32px;
+    font-size: 16px;
+    color: #FFF;
+    text-decoration: none;
+}
+
+#twentytwo {
+    margin-left: 32px;
+    font-size: 16px;
+    color: #FFF;
+    text-decoration: none;
+}
+
+#twentythree {
+    margin-left: 32px;
+    font-size: 16px;
+    color: #FFF;
+    text-decoration: none;
+}
+
+#twentyfour {
+    margin-left: 32px;
+    font-size: 16px;
+    color: #FFF;
+    text-decoration: none;
+}
+
+#twentyfive {
+    margin-left: 32px;
+    font-size: 16px;
+    color: #FFF;
+    text-decoration: none;
+}
+
+#twentysix {
+    margin-left: 32px;
+    font-size: 16px;
+    color: #FFF;
+    text-decoration: none;
+}
+
+#twentyseven {
+    color: white;
+    font-size: 16px;
+    margin: 0px;
+    margin-left: 1408px;
+    position: relative;
+    bottom: 22px;
+}
